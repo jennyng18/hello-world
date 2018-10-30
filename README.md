@@ -17,3 +17,10 @@ asdfghjkl
 
 I am awesome
 >>>>>>> 16921b70b68543356b47e45696a505929ea9f4d2
+
+
+
+
+We next performed  VPM (diameter, 1.5 mm) and 
+implanted chronic silicon probe electrodes. 
+We used custom-made and commercial silicon probes.
